@@ -1,16 +1,27 @@
-## Hi there 👋
+# Yadiel Rodriguez De La Cruz
 
-<!--
-**YadielRodri/YadielRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Bunker Hill Community College building practical software projects with C++ and Python.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning C++, Python, object-oriented programming, and core computer science concepts
+- Seeking 2027 internships in software engineering, IT, and technical support
+- Building a foundation through coursework, hands-on practice, and consistent project work
+- Planning to transfer to UMass Lowell after BHCC
+
+## Current focus
+
+- C++ fundamentals and problem solving
+- Python programming and automation
+- Clean code, debugging, and Git workflows
+- Small projects that demonstrate steady technical growth
+
+## Tools
+
+C++ · Python · Visual Studio Code · Git · GitHub
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yadiel-rodriguez-de-la-cruz/)
+
+I am building in public and documenting what I learn one project at a time.
