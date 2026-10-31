@@ -1,34 +1,41 @@
 # Yadiel Rodriguez De La Cruz
 
-Computer Science student at Bunker Hill Community College building practical software projects with C++ and Python.
+Computer Science student at Bunker Hill Community College, learning C++ and Python and building practical programming projects.
 
-## About
+## About Me
 
-- Learning C++, Python, object-oriented programming, and core computer science concepts
-- Seeking 2027 internships in software engineering, IT, and technical support
-- Building a foundation through coursework, hands-on practice, and consistent project work
-- Planning to transfer to a four-year university to earn a bachelor's degree in Computer Science
+- Currently studying Computer Science at BHCC.
+- Interested in software engineering, Python automation, and problem-solving.
+- Seeking Summer 2027 internships in software engineering, IT, and related fields.
+- Planning to transfer to a four-year university to complete my bachelor's degree in Computer Science.
 
-## Current focus
+## Featured Projects
 
-- C++ fundamentals and problem solving
-- Python programming and automation
-- Clean code, debugging, and Git workflows
-- Small projects that demonstrate steady technical growth
+### [Test Score Analyzer](https://github.com/YadielRodri/test-score-analyzer)
+**C++** | Reads test scores from a file, validates entries, calculates statistics, and generates a summary report.
 
-## Featured projects
+### [Caesar Cipher](https://github.com/YadielRodri/caesar-cipher)
+**Python** | Encodes and decodes messages using alphabet rotations, with input validation and a custom feature that counts possible decoding matches.
 
-- [Test Score Analyzer](https://github.com/YadielRodri/test-score-analyzer) — C++ program that reads and validates scores, calculates statistics, and writes a report.
-- [Caesar Cipher](https://github.com/YadielRodri/caesar-cipher) — Python encoder and decoder with a rotation-match counter.
-- [Student Planner](https://github.com/YadielRodri/student-planner) — C++ command-line assignment tracker.
-- [Math Tutor](https://github.com/YadielRodri/math-tutor) — C++ group project with arithmetic operations and input validation.
+### [Student Planner](https://github.com/YadielRodri/student-planner)
+**C++** | Command-line application for managing assignments, tracking completion, and searching for tasks.
 
-## Tools
+### [Math Tutor](https://github.com/YadielRodri/math-tutor)
+**C++** | Group programming project supporting five mathematical operations with input validation and error handling.
 
-C++ · Python · Visual Studio Code · Git · GitHub
+### [Payroll Calculator](https://github.com/YadielRodri/payroll-calculator)
+**C++** | Calculates employee wages and displays formatted payroll information.
+
+## Technical Skills
+
+**Languages:** Python, C++
+
+**Tools:** Visual Studio Code, Git, GitHub
+
+**Currently Learning:** Object-oriented programming, file handling, debugging, and automation.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yadiel-rodriguez-de-la-cruz/)
+[LinkedIn](https://www.linkedin.com/in/yadiel-rodriguez-de-la-cruz/)
 
-I am building in public and documenting what I learn one project at a time.
+I'm continuing to learn, build projects, and improve my programming skills.
